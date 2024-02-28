@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+nav ul {
+  list-style-type: none;
+  display: flex;
+}
+nav ul li {
+  margin-right: 10px;
+}
+nav ul li {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.bg-img img {
+  width: 1247px;
+  height: 500px;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+}
